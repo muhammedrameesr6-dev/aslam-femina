@@ -24,13 +24,13 @@
   }
 
 
-  /* ---- RSVP form (Redirects to WhatsApp +971 52 220 3050) ---- */
+  /* ---- RSVP form (Redirects to WhatsApp +91 86066 07311) ---- */
   function initRSVP() {
     const form   = document.getElementById('rsvp-form');
     const status = document.getElementById('rsvp-status');
     if (!form) return;
 
-    const WHATSAPP_NUMBER = '971522203050';
+    const WHATSAPP_NUMBER = '918606607311';
 
     form.addEventListener('submit', function (e) {
       e.preventDefault();

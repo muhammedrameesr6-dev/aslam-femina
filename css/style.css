@@ -597,8 +597,9 @@ h1, h2, h3, h4, p { margin: 0; }
 }
 
 .nav-logo {
-  font-family: var(--font-script);
-  font-size: 28px;
+  font-family: 'Great Vibes', cursive;
+  font-size: 34px;
+  font-weight: 500;
   color: var(--gold);
   letter-spacing: 0.05em;
 }
